@@ -8,5 +8,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-syk&show_icons=true&locale=en" alt="m-syk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-syk&" alt="m-syk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-syk&" alt="m-syk" /></p> 
 
